@@ -1,0 +1,6 @@
+@ShareMarketWebAPIs_HostAddress = http://localhost:5013
+
+GET {{ShareMarketWebAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
